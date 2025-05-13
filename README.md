@@ -1,4 +1,4 @@
-# Clustering-wines
+# Wines Clustering
 
 This project explores clustering techniques applied to the Wine dataset. It demonstrates the use of various clustering algorithms, visualizations, and analyses to derive meaningful insights from the data.
 
